@@ -104,6 +104,7 @@ Frames received: 1 2 3
 Frames received: 4 5 6
 Frames received: 7 8
 ```
+<img width="480" height="135" alt="image" src="https://github.com/user-attachments/assets/e11d96cf-1848-453c-a59e-e7359e3517c4" />
 
 ### Client Output
 
@@ -117,6 +118,8 @@ Received: ACK for 4 5 6
 Sending frames: 7 8
 Received: ACK for 7 8
 ```
+<img width="661" height="203" alt="image" src="https://github.com/user-attachments/assets/5a3511fa-4473-4417-b885-f0416fdfa8a2" />
+
 
 ---
 
